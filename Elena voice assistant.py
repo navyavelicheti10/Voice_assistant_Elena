@@ -83,10 +83,7 @@ while True:
             talk(greetings)
             print(question)
             talk(question)
-        elif 'marry' in command:
-            word="sorry i already got married to Damon Salvatore"
-            print(word)
-            talk(word)
+    
         elif 'stop' in command:
             bye="Bye have a cute day"
             print(bye)
